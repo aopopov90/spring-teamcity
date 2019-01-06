@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "teamcity",
+                "projectName": "teamcity",
+                "workingDirectory": "e:\\temp\\teamcity",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "teamcity",
+                "projectName": "teamcity",
+                "workingDirectory": "e:\\temp\\teamcity",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
